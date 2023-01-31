@@ -7,6 +7,7 @@ import java.io.InputStreamReader;
  * solve2. 누적합으로 가능? input의 길이만큼 int 배열 생성
  * => i번째 element는 input에서 i번째까지 "("의 개수 - ")"의 개수
  * => 모든 element가 0 이상이고 마지막 element가 0이면 YES 아니면 NO
+ * solve3. hashMap()
  */
 
 public class Main {
